@@ -1,7 +1,7 @@
 name: classic_bottom_navigation_bar
 description: Classic bottom navigation bar for fluttre 
-version: 0.0.1
-homepage:
+version: 0.0.2
+homepage: https://github.com/TahaAhvazi/classiic_bottom_navigation__bar
 
 environment:
   sdk: ">=2.17.6 <3.0.0"

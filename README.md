@@ -8,6 +8,13 @@ By using this package, you will be able to easily create a beautiful bottom navi
 
 
 
+https://user-images.githubusercontent.com/86960501/214839787-92a46d74-2523-408d-9f27-532cbb10e1b4.mp4
+
+https://user-images.githubusercontent.com/86960501/214839859-b583c457-bc06-450a-ac04-2cfe07f59715.mp4
+
+
+
+
 ## How to use⁉️
 
 #### set a bottom navigation bar in Scaffold: ✅
@@ -169,4 +176,3 @@ Scaffold(
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
