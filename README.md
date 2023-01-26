@@ -6,11 +6,9 @@ By using this package, you will be able to easily create a beautiful bottom navi
 🟢داکیومنت فارسی در مورد نحوه استفاده از این پکیج در ادامه آمده است🟢
 
 
+![MyVideo_1](https://user-images.githubusercontent.com/86960501/214843370-813e48ae-708d-4793-9270-9a69adb240cd.gif)
 
-
-https://user-images.githubusercontent.com/86960501/214839787-92a46d74-2523-408d-9f27-532cbb10e1b4.mp4
-
-https://user-images.githubusercontent.com/86960501/214839859-b583c457-bc06-450a-ac04-2cfe07f59715.mp4
+![vidtwo](https://user-images.githubusercontent.com/86960501/214843500-1259c718-b8c2-432b-8f9e-71e8972d3d99.gif)
 
 
 
